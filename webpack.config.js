@@ -9,7 +9,7 @@ module.exports = {
     ],
     output: {
       path: path.resolve(__dirname, "./static/"),
-      publicPath: "/static/",
+      publicPath: "/example/static/",
       filename: "main.js"
     },
     module: {
