@@ -2,8 +2,9 @@
   "name": "button-test",
   "version": "0.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/app.js",
   "scripts": {
+    "build": "webpack -p",
     "dev-server": "webpack-dev-server"
   },
   "author": "",
